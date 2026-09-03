@@ -1,0 +1,4 @@
+interface:
+  display_name: "RD Ready 需求收斂"
+  short_description: "透過問答撰寫讓 RD 能直接往下開發的需求書"
+  default_prompt: "Use $rd-ready-requirements to interview me and produce an RD-ready development specification."
