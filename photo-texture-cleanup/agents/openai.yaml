@@ -1,0 +1,6 @@
+interface:
+  display_name: "照片紋路清理"
+  short_description: "預防並修復 AI 照片的怪異重複紋路、蠟感與塗抹感"
+  default_prompt: "Use $photo-texture-cleanup to remove unnatural texture artifacts while preserving the original photo."
+policy:
+  allow_implicit_invocation: true
