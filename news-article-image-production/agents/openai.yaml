@@ -1,0 +1,4 @@
+interface:
+  display_name: "新聞稿情境配圖製作"
+  short_description: "從新聞稿缺圖盤點到寫實情境配圖生成與逐張品質驗收流程"
+  default_prompt: "使用 $news-article-image-production 讀取文章、盤點缺圖，並從零生成可信的新聞情境配圖。"
